@@ -1,4 +1,10 @@
+/**
+ *
+ * @author xekid78
+ *
+ */
 public class sample2 {
+	
 	public static void main(String[] args) {
 		int omikuji = (int)(Math.random() * 6 + 1);
 		if (omikuji == 1) {
