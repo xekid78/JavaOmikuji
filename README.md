@@ -1,4 +1,4 @@
-# Java_SampleCode2
+# JavaSampleCode2
 おみくじ
 
 #### 処理
